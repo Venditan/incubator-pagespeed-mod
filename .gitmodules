@@ -49,9 +49,11 @@
 [submodule "third_party/serf/src"]
 	path = third_party/serf/src
 	url = https://github.com/apache/serf.git
+	branch = 1.4.x
 [submodule "third_party/grpc/src"]
 	path = third_party/grpc/src
 	url = https://github.com/grpc/grpc.git
+	branch = v1.29.x
 [submodule "third_party/protobuf/src"]
 	path = third_party/protobuf/src
 	url = https://github.com/google/protobuf.git
